@@ -3,7 +3,9 @@ __pycache__/
 .env
 *.csv
 *.json
-data/
+# open .gitignore and change the data/ line to:
+data/raw/
+data/processed/
 *.pt
 *.bin
 .ipynb_checkpoints/
