@@ -59,7 +59,7 @@ python test.py --dataset imdb --checkpoint path/to/model.ckpt
 ```
 
 
-🙌 Acknowledgements
+🙌 Acknowledgements  
 
 - [HuggingFace Transformers](https://github.com/huggingface/transformers)
 - [IMDB Dataset](https://ai.stanford.edu/~amaas/data/sentiment/)
